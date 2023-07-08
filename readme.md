@@ -8,3 +8,4 @@
 |Firekirin|[Click here to download Firekirin](http://firekirin.xyz:8580/index.html) |
 |PandaMaster| [Click here to download Pandamaster](https://pandamaster.vip:8888/index.html) |
 |Gamevault|[Click here to download Gamevault](https://download.gamevault999.com/)|
+|Casino Ignite|[Click here to download CasinoIgnite](https://www.casinoignite777.com/)|
