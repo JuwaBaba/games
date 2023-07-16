@@ -1,3 +1,3 @@
-{
-  "message": "Ahh hell nah! This shit should work!"
-}
+const noticeString = `{
+  "message": "Please use this cashtag from next deposit!\\nMinimum deposit is $5!\\nUse the link.. dont type out the cashtag: https://cash.app/$Aliyah2538"
+}`
